@@ -2,7 +2,7 @@ package cn.chap2.main;
 
 public class Apple {
 
-	private int weight = 12;
+	private int weight = 122;
 	private String color = "";
 
 	public Apple(int weight, String color) {
