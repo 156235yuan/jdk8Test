@@ -3,7 +3,7 @@ package cn.chap2.main;
 public class Apple {
 
 	private int weight = 122;
-	private String color = "";
+	private String color = "111";
 
 	public Apple(int weight, String color) {
 		this.weight = weight;
